@@ -1,0 +1,49 @@
+.tfoot.input {
+        width: 100%;
+        padding: 3px;
+        box-sizing: border-box;
+    }
+
+.td.highlight {
+        font-weight: bold;
+        background-color: #3c8dbc;
+        color: blue;
+    }
+
+.buttons-copy {
+  background-color: lightgrey;
+  color: black;
+}
+
+.buttons-excel {
+  background-color: lightgrey;
+  color: black;
+}
+
+.buttons-pdf {
+  background-color: lightgrey;
+  color: black;
+}
+
+.buttons-csv {
+  background-color: lightgrey;
+  color: black;
+}
+
+.table thead th {
+    background-image: none !important;
+    background-color: lightgrey !important;
+    color: black !important;
+}
+
+.table tfoot th {
+    background-image: none !important;
+    background-color: lightgrey !important;
+    color: black !important;
+}
+
+.table tbody td {
+    background-image: none !important;
+/*    font-family: 'Times New Roman';*/
+/*    font-size: 12px;*/
+}

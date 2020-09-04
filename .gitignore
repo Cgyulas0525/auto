@@ -1,0 +1,5 @@
+/vendor/*
+/test/*
+/bootstrap/*
+/storage/*
+/public/bower_components/*
